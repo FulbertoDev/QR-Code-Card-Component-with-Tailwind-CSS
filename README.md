@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/FulbertoDev/QR-Code-Card-Component-with-Tailwind-CSS](https://github.com/FulbertoDev/QR-Code-Card-Component-with-Tailwind-CSS)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-card-component-with-tailwind-css-FR9kvSuRFx](https://www.frontendmentor.io/solutions/qr-code-card-component-with-tailwind-css-FR9kvSuRFx)
 - Live Site URL: [https://qr-code-card-component-with-tailwind-css.vercel.app/](https://qr-code-card-component-with-tailwind-css.vercel.app/)
 
 ## My process
